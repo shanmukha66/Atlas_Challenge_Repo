@@ -80,7 +80,3 @@ The application includes robust error handling:
 - Graceful fallbacks for missing data
 - User-friendly error messages
 - Loading states for better UX
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
